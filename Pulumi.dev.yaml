@@ -1,0 +1,4 @@
+config:
+  aws:region: eu-south-1
+  ec2-main.lysz210:eipId: eipalloc-0fb9fc7cd90ef2b02
+  ec2-main.lysz210:user: ubuntu
